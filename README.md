@@ -7,7 +7,7 @@ permettant d'évaluer s'il est possible de distinguer les hommes des femmes
 à partir de ces critères.
 
 ## Contenu
-- `data/mesures_mains.csv` : N = ... participants (38 femmes, 43 hommes)
+- `data/Mains_données_brutes.ods` : N = 81 participants (38 femmes, 43 hommes)
 
 ## Variables
 | Colonne | Description | Unité |
